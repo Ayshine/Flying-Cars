@@ -1,0 +1,38 @@
+(fcnd) D:\FCND\FCND-Motion-Planning>python motion_planning.py
+Logs\TLog.txt
+Logs\NavLog.txt
+starting connection
+arming transition
+Searching for a path ...
+37.79248
+-122.39745
+[-122.3974533   37.7924804    0.       ]
+global home [-122.3974533   37.7924804    0.       ], position [-122.3974491   3
+7.7924795    0.22     ], local position [-0.10558537  0.36662054 -0.22063822]
+North offset = -316, east offset = -445
+north_start: 0 easth_start: 0
+Grid_Start: (316, 445)
+Local Start and Goal:  (316, 445) (466, 419)
+Found a path.
+Sending waypoints to simulator ...
+takeoff transition
+waypoint transition
+target position [0, 0, 5, 0]
+waypoint transition
+target position [23, -23, 5, 0]
+waypoint transition
+target position [25, -23, 5, 0]
+waypoint transition
+target position [29, -19, 5, 0]
+waypoint transition
+target position [89, -19, 5, 0]
+waypoint transition
+target position [96, -26, 5, 0]
+waypoint transition
+target position [150, -26, 5, 0]
+landing transition
+disarm transition
+manual transition
+Closing connection ...
+
+(fcnd) D:\FCND\FCND-Motion-Planning>
