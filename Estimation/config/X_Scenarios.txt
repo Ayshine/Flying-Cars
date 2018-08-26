@@ -1,0 +1,5 @@
+X_DebugAttitudeInterp
+X_TestMavlink
+X_TestManyQuads
+X_MonteCarloTest
+X_ParamTests
