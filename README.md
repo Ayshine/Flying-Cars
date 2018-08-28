@@ -4,9 +4,9 @@ This is the readme for the C++ project.
 
 For easy navigation throughout this document, here is an outline:
 
- - [Backyard-Flyer](#Backyard Flyer)
- - [3D Motion-Planning](#3D Motion Planning)
- - [Building a Controller](#Building a Controller)
+ - [Backyard Flyer](#Backyard-Flyer)
+ - [3D Motion Planning](#3D-Motion-Planning)
+ - [Building a Controller](#Building-a-Controller)
  - [Estimation](#Estimation)
 
 
