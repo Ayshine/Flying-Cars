@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Flying Cars #
 
-You can use the [editor on GitHub](https://github.com/Ayshine/Flying-Cars/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the readme for the C++ project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For easy navigation throughout this document, here is an outline:
 
-### Markdown
+ - [Backyard-Flyer](#Backyard Flyer)
+ - [3D Motion-Planning](#3D Motion Planning)
+ - [Building a Controller](#Building a Controller)
+ - [Estimation](#Estimation)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Backyard Flyer ##
+In this lesson you'll write the "Hello, worl!" of drone programming as you write event-driven code that casues a  quadrotor to take off, fly in a square, and land.
 
-# Header 1
-## Header 2
-### Header 3
+Make a simulated drone fly in a square shape!
 
-- Bulleted
-- List
+##3D Motion Planning ##
+In this project, you'll get a chance to apply what you've learned about 3D motion planning from the last several lessons to plan and execute a mission in a complex urban environment!
 
-1. Numbered
-2. List
+##Building a Controller ##
 
-**Bold** and _Italic_ and `Code` text
+In this project you'll implement a controller for a quadrotor in C++.
 
-[Link](url) and ![Image](src)
-```
+## Estimation ##
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ayshine/Flying-Cars/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In this project you'll implement an estimator to track the position and attitude of a quadrotor moving in three dimensions.
