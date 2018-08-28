@@ -15,10 +15,10 @@ In this lesson you'll write the "Hello, worl!" of drone programming as you write
 
 Make a simulated drone fly in a square shape!
 
-##3D Motion Planning ##
+## 3D Motion Planning ##
 In this project, you'll get a chance to apply what you've learned about 3D motion planning from the last several lessons to plan and execute a mission in a complex urban environment!
 
-##Building a Controller ##
+## Building a Controller ##
 
 In this project you'll implement a controller for a quadrotor in C++.
 
