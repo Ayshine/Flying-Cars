@@ -1,14 +1,21 @@
 # Flying Cars #
 
-This is the readme for the C++ project.
+A flying car is a type of personal air vehicle or roadable aircraft that provides door-to-door transportation by both ground and air.  Just like Cora which is designed by Kitty Hawk.
+![cora](img/Kitty-Hawk-Cora-Air-Taxi.jpg  "cora")
+
+You can learn more about Cora and Kitty Hawk by visiting their website
+
+- [Cora](https://cora.aero/)
+- [Kitty Hawk](https://kittyhawk.aero/)
+
 
 For easy navigation throughout this document, here is an outline:
 
- - [Backyard Flyer](#Backyard-Flyer)
- - [3D Motion Planning](#3D-Motion-Planning)
- - [Building a Controller](#Building-a-Controller)
- - [Estimation](#Estimation)
-
+ 
+ - [Backyard Flyer](#backyard-flyer)
+ - [3D Motion Planning](#3d-motion-planning)
+ - [Building a Controller](#building-a-controller)
+ - [Estimation](#estimation)
 
 ## Backyard Flyer ##
 In this lesson you'll write the "Hello, worl!" of drone programming as you write event-driven code that casues a  quadrotor to take off, fly in a square, and land.
@@ -25,3 +32,5 @@ In this project you'll implement a controller for a quadrotor in C++.
 ## Estimation ##
 
 In this project you'll implement an estimator to track the position and attitude of a quadrotor moving in three dimensions.
+
+## Setup ##
