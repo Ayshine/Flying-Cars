@@ -8,7 +8,7 @@ You can learn more about Cora and Kitty Hawk by visiting their website
 - [Cora](https://cora.aero/)
 - [Kitty Hawk](https://kittyhawk.aero/)
 
-This repository is built to showcase classroom project of [Flying Car Nanodegree](https://www.udacity.com/course/flying-car-nanodegree--nd787) offered by [Udacity](https://www.udacity.com/)
+This repository is built to showcase completed classroom projects of [Flying Car Nanodegree](https://www.udacity.com/course/flying-car-nanodegree--nd787) offered by [Udacity](https://www.udacity.com/)
 
 This README is broken down into the following sections:
  
