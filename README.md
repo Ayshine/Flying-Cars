@@ -55,4 +55,4 @@ You can find more information about the implementation steps of this project on 
 
 **My Solution**
 [Solution](/Estimation/src/QuadEstimatorEKF.cpp)
-[Solution Write-up](//Controls/report2.pdf)
+[Solution Write-up](/Estimation/report/report.md)
