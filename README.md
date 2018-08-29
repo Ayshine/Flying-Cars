@@ -8,9 +8,9 @@ You can learn more about Cora and Kitty Hawk by visiting their website
 - [Cora](https://cora.aero/)
 - [Kitty Hawk](https://kittyhawk.aero/)
 
+This repository is built to showcase classroom project of [Flying Car Nanodegree](https://www.udacity.com/course/flying-car-nanodegree--nd787) offered by [Udacity](https://www.udacity.com/)
 
-For easy navigation throughout this document, here is an outline:
-
+This README is broken down into the following sections:
  
  - [Backyard Flyer](#backyard-flyer)
  - [3D Motion Planning](#3d-motion-planning)
@@ -18,9 +18,15 @@ For easy navigation throughout this document, here is an outline:
  - [Estimation](#estimation)
 
 ## Backyard Flyer ##
-In this lesson you'll write the "Hello, worl!" of drone programming as you write event-driven code that casues a  quadrotor to take off, fly in a square, and land.
+***Make a simulated drone fly in a square shape!***
 
-Make a simulated drone fly in a square shape!
+In this project, we have written the "Hello, world!" of drone programming as we write event-driven code that causes a  quadrotor to take off, fly in a square, and land.
+
+This project is the first project of Flying Car Nanodegree as an exercise of *Introduction to Autonomous Flight* section of the program.You can find more information about the implementation steps of this project on the project's own [README](/Backyard-Flyer/README.md) file. Also, You can visit the project's original [repository](https://github.com/udacity/FCND-Backyard-Flyer) for further information.
+
+[Solution](Backyard-Flyer/backyard_flyer_solution.py)
+
+
 
 ## 3D Motion Planning ##
 In this project, you'll get a chance to apply what you've learned about 3D motion planning from the last several lessons to plan and execute a mission in a complex urban environment!
