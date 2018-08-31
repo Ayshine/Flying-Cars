@@ -25,7 +25,7 @@ In this project, we have written the **"Hello, world!"** of drone programming as
 This project is the first project of Flying Car Nanodegree as an exercise of *Introduction to Autonomous Flight* section of the program.You can find more information about the implementation steps of this project on the project's own [README](/Backyard-Flyer/README.md) file. Also, You can visit the project's original [repository](https://github.com/udacity/FCND-Backyard-Flyer) for further information.
 
 **My Solution**
-[Solution](Backyard-Flyer/backyard_flyer_solution.py)
+- [Solution](Backyard-Flyer/backyard_flyer_solution.py)
 
 
 
@@ -35,8 +35,8 @@ In this project, we've got a chance to apply what we've learned about **3D motio
 You can find more information about the implementation steps of this project on the project's own [README](Motion-Planning/README.md) file. Also, You can visit the project's original [repository](https://github.com/udacity/FCND-Motion-Planning) for further information.
 
 **My Solution**
-[Solution](/Motion-Planning/planning_utils_solution.py)
-[Solution Write-up](/Motion-Planning/FCND-Motion_Planning.pdf)
+- [Solution](/Motion-Planning/planning_utils_solution.py)
+- [Solution Write-up](/Motion-Planning/FCND-Motion_Planning.pdf)
 
 ## Building a Controller ##
 
@@ -45,8 +45,8 @@ In this project, we've implemented a controller for a quadrotor in C++. Experime
 You can find more information about the implementation steps of this project on the project's own [README](/Controls/README.md) file. Also, You can visit the project's original [repository](https://github.com/udacity/FCND-Controls) for further information.
 
 **My Solution**
-[Solution](/Controls/src/QuadControl.cpp)
-[Solution Write-up](//Controls/report2.pdf)
+- [Solution](/Controls/src/QuadControl.cpp)
+- [Solution Write-up](//Controls/report2.pdf)
 ## Building an Estimator ##
 
 In this project we've implemented an estimator to track the position and attitude of a quadrotor moving in three dimensions. Experimented on **Kalman Filters** **Estimation and Localization**.
@@ -54,5 +54,5 @@ In this project we've implemented an estimator to track the position and attitud
 You can find more information about the implementation steps of this project on the project's own [README](/Estimation/README.md) file. Also, You can visit the project's original [repository](https://github.com/udacity/FCND-Estimation-CPP) for further information.
 
 **My Solution**
-[Solution](/Estimation/src/QuadEstimatorEKF.cpp)
-[Solution Write-up](/Estimation/report/report.md)
+- [Solution](/Estimation/src/QuadEstimatorEKF.cpp)
+- [Solution Write-up](/Estimation/report/report.md)
