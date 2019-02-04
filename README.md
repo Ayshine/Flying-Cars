@@ -46,7 +46,7 @@ You can find more information about the implementation steps of this project on 
 
 **My Solution**
 - [Solution](/Controls/src/QuadControl.cpp)
-- [Solution Write-up](//Controls/report2.pdf)
+- [Solution Write-up](/Controls/report2.pdf)
 ## Building an Estimator ##
 
 In this project we've implemented an estimator to track the position and attitude of a quadrotor moving in three dimensions. Experimented on **Kalman Filters** **Estimation and Localization**.
